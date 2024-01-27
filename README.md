@@ -1,5 +1,5 @@
 # Mamba Explained
-Code, diagrams, and explainers for the mamba architecture.
+Code, diagrams, and explainers for the [Mamba architecture](https://arxiv.org/abs/2312.00752).
 
 ## Why should you care about Mamba?
 - Like RNNs, Mamba's memory and computational complexity scale linearly with sequence length. 
@@ -16,3 +16,12 @@ Coming soon
 
 ## Code:
 Coming soon
+
+## Links:
+
+### Blog Posts:
+- [Annotated S4](https://srush.github.io/annotated-s4/?ref=blog.oxen.ai)
+### Videos:
+- [Mamba - a replacement for Transformers?](https://www.youtube.com/watch?v=ouF-H35atOY&ab_channel=SamuelAlbanie)
+### Implementations:
+- [mamba-minimal](https://github.com/johnma2006/mamba-minimal/)
